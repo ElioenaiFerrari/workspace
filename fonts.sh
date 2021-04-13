@@ -1,0 +1,1 @@
+sudo cp -r JetBrainsMono /usr/share/fonts
