@@ -1,0 +1,142 @@
+[
+  {
+    "name": "intelliway-cli",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/interno/intelliway-cli",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-app-backend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/02/latchaid-app-backend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-intelliboard-backend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/02/latchaid-intelliboard-backend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-chatbot-backend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/02/latchaid-chatbot-backend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-admin-panel",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/02/latchaid-admin-panel",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-chatbot-frontend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/02/latchaid-chatbot-frontend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-intelliboard-frontend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/02/latchaid-intelliboard-frontend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-sentine-api",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/02/latchaid-sentine-api",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-action-system",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/02/latchaid-action-system",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-microservices-gateway",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/02/latchaid-microservices-gateway",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "perfil-intelliboard-backend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/perfil/perfil-intelliboard-backend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "perfil-intelliboard-frontend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/perfil/perfil-intelliboard-frontend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "arcelorsac-intelliboard-frontend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/arcelor/arcelorsac-intelliboard-frontend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "arcelorsac-intelliboard-backend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/arcelor/arcelorsac-intelliboard-backend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "benevix-intelliboard-frontend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/benevix/benevix-intelliboard-frontend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "benevix-intelliboard-backend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/benevix/benevix-intelliboard-backend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "fucape-painel-bolsa-backend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/fucape/painel-bolsa-backend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "fucape-painel-bolsa-frontend",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/fucape/painel-bolsa-frontend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-admin-panel-aws",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/prod-aws/latchaid-admin-panel",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  },
+  {
+    "name": "latchaid-app-backend-aws",
+    "rootPath": "/home/elioenaiferrari/Documents/intelliway/latchaid/prod-aws/latchaid-app-backend",
+    "paths": [],
+    "group": "",
+    "enabled": true
+  }
+]
