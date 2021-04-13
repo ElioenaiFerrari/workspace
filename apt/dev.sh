@@ -1,2 +1,2 @@
-sudo apt-get install build-essential git curl flameshot -y
+sudo apt-get install build-essential git curl zsh flameshot -y
 
