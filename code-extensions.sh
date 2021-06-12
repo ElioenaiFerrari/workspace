@@ -19,10 +19,11 @@ code --install-extension frinkr.pdf
 code --install-extension humao.rest-client
 code --install-extension JakeBecker.elixir-ls
 code --install-extension jpoissonnier.vscode-styled-components
-code --install-extension lkytal.pomodoro
 code --install-extension mikestead.dotenv
+code --install-extension mjmcloug.vscode-elixir
 code --install-extension ms-azuretools.vscode-docker
 code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
 code --install-extension ms-toolsai.jupyter
 code --install-extension ms-vsliveshare.vsliveshare
 code --install-extension naumovs.color-highlight
@@ -34,7 +35,6 @@ code --install-extension PulkitGangwar.nextjs-snippets
 code --install-extension ritwickdey.LiveServer
 code --install-extension shd101wyy.markdown-preview-enhanced
 code --install-extension teabyii.ayu
-code --install-extension thekalinga.bootstrap4-vscode
 code --install-extension usernamehw.errorlens
 code --install-extension wholroyd.HCL
 code --install-extension yzane.markdown-pdf
